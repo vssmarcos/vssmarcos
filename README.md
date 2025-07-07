@@ -37,9 +37,9 @@ Possuo habilidades sólidas em Python e estátistica, voltado para pré-processa
 [**Centro de Excelência em inteligenciar artificial (CEIA)**](https://ceia.ufg.br/)  \
 Linguagens & Tecnologias: `Python`, `Pandas`, `Numpy`, `Scikit Learn`,\
 Responsável por: 
-1. Realizar análise exploratória de dados para tirar insights e features
-2. Limpeza, integração e preparação de dados
-3. Desenvolver modelos supervisionados e não supervisionados
+- Realizar análise exploratória de dados para tirar insights e features
+- Limpeza, integração e preparação de dados
+- Desenvolver modelos supervisionados e não supervisionados
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_piracanjuba_2021.png/1280px-Logo_piracanjuba_2021.png"/>](https://www.piracanjuba.com.br/)
