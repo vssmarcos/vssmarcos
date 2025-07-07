@@ -1,4 +1,4 @@
-##  Sejam bem-vindos a minha página!
+##  Seja bem-vindo a minha página!
 
 ### Olá, sou Marcos Vinícius. Cientista de dados com interesse em Segurança Cibernética
 
@@ -12,7 +12,6 @@ Possuo habilidades sólidas em Python e estátistica, voltado para pré-processa
 - **Analise de dados**: Análise exploratória de dados do ENEM de 2023
 - **Processamento digital de imagens**: Técnicas de pré processamento de imagens (Limiarização, Filtragem, alargamento de imagens, entre outros)
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
 ---
 
@@ -29,6 +28,39 @@ Possuo habilidades sólidas em Python e estátistica, voltado para pré-processa
 
 ---
 
-## ⭐ GitHub Stats
+## Experiência profissional
 
-![GitHub Stats]()
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://ceia.ufg.br/wp-content/uploads/2024/10/Logo-2.png"/>](https://ceia.ufg.br/)
+
+**Pesquisador - Cientista de dados** \
+[**Centro de Excelência em inteligenciar artificial (CEIA)**](https://ceia.ufg.br/)  \
+Linguagens & Tecnologias: `Python`, `Pandas`, `Numpy`, `Scikit Learn`,\
+Responsável por: 
+1. Realizar análise exploratória de dados para tirar insights e features
+2. Limpeza, integração e preparação de dados
+3. Desenvolver modelos supervisionados e não supervisionados
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_piracanjuba_2021.png/1280px-Logo_piracanjuba_2021.png"/>](https://www.piracanjuba.com.br/)
+
+**Desenvolvedor de automações e Dados** \
+[**Piracanjuba**](https://www.piracanjuba.com.br/) • Estágio \
+Linguagens & Tecnologias: `JavaScript`, `SQL`, `PowerBI`, `CrewAI`, `n8n`\
+Responsável por: 
+- Integração e automação de fluxos de trabalho nas plataformas internas da empresa
+- Desenvolvimento de soluções baseadas em agentes inteligentes para otimização de operações
+- Utilização de Javascript e Python para automação de tarefas complexas e criação de ferramentas personalizadas
+- Tratamento e visualização de dados
+<br/>
+
+
+---
+## Minhas redes
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=vsmarcos.15@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marcosvcss" alt="LinkedIn"/></a>
+</p>
